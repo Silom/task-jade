@@ -12,7 +12,7 @@ The index file of you project.
 
 ##### output
 
-Glop for the destination of fonts.
+Glop for the destination of the html.
 
 ##### watch
 
