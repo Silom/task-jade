@@ -11,7 +11,7 @@ module.exports = function (gulp, param) {
     gulp.src(param.rootFile)
       .pipe(plugins.plumber())
       .pipe(plugins.jade({
-        pretty: gulp.configs.isProduction ? false : true
+        pretty: gulp.isProduction ? false : true
       }))
       .pipe(gulp.dest(param.output))
   })

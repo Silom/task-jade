@@ -3,12 +3,14 @@
 Compiles and watches Jade-files.
 
 
+*TODO npm install here :/*
+
+
 ## Configurations
 
 ##### rootFile
 
 The index file of you project.
-
 
 ##### output
 
@@ -29,11 +31,12 @@ Glop for watcher.
 }
 ```
 
+### Advanced
 
-## Dependencies
+Add this line to your gulp object:
 
-- gulp-plumber
-- gulp-watch
-- gulp-jade
+```
+gulp.isProduction = true
+```
 
-Either install dependencies within this task, or type ``npm install --save-dev [dependencies]``.
+The html is rendered pretty as default, with the production flag it gets minified.
