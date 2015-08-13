@@ -2,8 +2,12 @@
   "name": "task-jade",
   "version": "0.0.2",
   "description": "Jade task for gulp ready to use.",
-  "author": "Valentin Wetenkamp <wetenkamp@silpion.com>",
+  "author": "Valentin Wetenkamp <valentin.wetenkamp@googlemail.com>",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Silom/task-jade.git"
+  },
   "scripts": {
     "setup": "npm install"
   },
