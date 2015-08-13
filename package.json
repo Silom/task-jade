@@ -1,10 +1,11 @@
 {
   "name": "task-jade",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Jade task for gulp ready to use.",
   "author": "Valentin Wetenkamp <valentin.wetenkamp@googlemail.com>",
   "main": "index.js",
   "keywords": ["gulp", "task", "precreated", "jade"],
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/Silom/task-jade.git"
