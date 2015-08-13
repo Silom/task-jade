@@ -24,11 +24,11 @@ Glop for watcher.
 *Example:*
 
 ```
-{
+require("task-jade")(gulp, {
   rootFile: './src/index.jade',
   output: dest,
   watch: './src/**/*.jade'
-}
+})
 ```
 
 ### Advanced
