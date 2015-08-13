@@ -3,7 +3,7 @@
 Compiles and watches Jade-files.
 
 
-*TODO npm install here :/*
+``npm install --save task-jade``
 
 
 ## Configurations
