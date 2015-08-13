@@ -4,6 +4,7 @@
   "description": "Jade task for gulp ready to use.",
   "author": "Valentin Wetenkamp <valentin.wetenkamp@googlemail.com>",
   "main": "index.js",
+  "keywords": ["gulp", "task", "precreated", "jade"],
   "repository": {
     "type": "git",
     "url": "https://github.com/Silom/task-jade.git"
