@@ -1,8 +1,7 @@
 {
   "name": "task-jade",
-  "private": true,
   "version": "0.0.1",
-  "description": "Task for gulp",
+  "description": "Jade task for gulp ready to use.",
   "author": "Valentin Wetenkamp <wetenkamp@silpion.com>",
   "main": "index.js",
   "scripts": {
