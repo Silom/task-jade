@@ -27,7 +27,7 @@ Glop for watcher.
 {
   rootFile: './src/index.jade',
   output: dest,
-  watch: sources.jade /* "./src/**/*.jade" */
+  watch: './src/**/*.jade'
 }
 ```
 
