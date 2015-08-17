@@ -9,6 +9,11 @@ If you have any idea on other tasks that you need in your project, just tell me 
 
 ## Configurations
 
+Task will have the name ``'jade:watch'`` and ``jade:build``.
+
+Build will build one time.
+Watch will build on change.
+
 ##### rootFile
 
 The index file of you project.
