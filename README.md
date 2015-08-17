@@ -5,6 +5,7 @@ Compiles and watches Jade-files.
 
 ``npm install --save task-jade``
 
+If you have any idea on other tasks that you need in your project, just tell me and I will most likely create it for you :).
 
 ## Configurations
 
